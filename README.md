@@ -6,7 +6,9 @@ I currently live in the United States. 🇺🇸
 
 I have been building high performance and scalable SaaS products with different teams and organizations being used all round the world. 🌎
 
-I like to build things with frontend frameworks, backend services, SQL and NoSQL databases using languages like JavaScript, TypeScript, Python and PHP.  
+I like to build things with frameworks like ```React```,```Node```, ```Flutter```, ```React Native```, and ```Electron```.
+
+My preferred languages are  ```JavaScript```, ```TypeScript``` and ```Python```.
 
 You can find me on:
 
