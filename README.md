@@ -8,8 +8,6 @@ I have been building high performance and scalable SaaS products with different 
 
 I like to build things with frameworks like ```React```, ```Node```, ```Flutter```, ```React Native``` and ```Electron```.
 
-My preferred languages are  ```JavaScript```, ```TypeScript``` and ```Python```.
-
 You can find me on:
 
 * [My website](https://portfolio-nithinrauj.vercel.app/)
