@@ -1,13 +1,9 @@
 ### Hello! I'm Nithin 👋
 
-I'm a Software Engineer from India. 🇮🇳
+I like to build stuff!
 
-I currently live in the United States. 🇺🇸
-
-I have been building high performance and scalable SaaS products with different teams and organizations being used all round the world.
+![Cat Coder GIF](https://i.imgflip.com/65qngn.gif)
 
 You can find me on:
-
-* [My website](https://portfolio-nithinrauj.vercel.app/)
 * [GitHub as @NithinRauj (you are here)](https://github.com/NithinRauj)
 * [LinkedIn](https://www.linkedin.com/in/nithinrauj1712/)
